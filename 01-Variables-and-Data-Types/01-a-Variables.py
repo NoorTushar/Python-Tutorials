@@ -20,3 +20,5 @@ print("Item price is :", price)
 print(type(name)) # <class 'str'>
 print(type(age)) # <class 'int'>
 print(type(price)) # <class 'float'>
+
+# 3. Remember python is case sensitive
